@@ -15,3 +15,6 @@ char* StrCpy(char* src)
 	n[len] = '\0';
 	return n;
 }
+/**
+Remote edit B21031702林伊伊
+**/
